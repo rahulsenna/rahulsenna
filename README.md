@@ -11,6 +11,9 @@
 <a href="https://leetcode.com/rahulsenna/" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode--blue" />
 </a>
+<a href="https://www.codewars.com/users/RahulSinha" target="_blank">
+<img src="https://img.shields.io/badge/CodeWars--blue" />
+</a>
 
 <br/> 
 
