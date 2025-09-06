@@ -1,17 +1,14 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </br>
 <h2> Connect with me on 👇</h2>
-<a href="https://www.linkedin.com/in/muskan-rani-980553188/" target="_blank">
+<a href="https://www.linkedin.com/in/rahul-sinha-b50a5766/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn--blue" />
 </a>
-<a href="https://www.hackerrank.com/MuskanRani" target="_blank">
-<img src="https://img.shields.io/badge/HackerRank--darkgreen" ;></img></a>
-</a> 
-<a href="https://twitter.com/_muskan_gupta_" target="_blank">
+<a href="https://twitter.com/rahulsenna" target="_blank">
 <img src="https://img.shields.io/badge/Twitter--blue" />
 </a>
 </a> 
-<a href="https://leetcode.com/Muskan_Rani/" target="_blank">
+<a href="https://leetcode.com/rahulsenna/" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode--blue" />
 </a>
 
@@ -29,8 +26,8 @@
 https://rahulsenna.github.io/Portfolio/
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 <!-- <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'> -->
-<h3>Or you can scan this QR Code 👇🏻</h3>
-<img src="https://github.com/rahulsenna/rahulsenna/blob/master/qrcode_rahulsenna.github.io.png"  style="width: 20%" />
+<!-- <h3>Or you can scan this QR Code 👇🏻</h3> -->
+<!-- <img src="https://github.com/rahulsenna/rahulsenna/blob/master/qrcode_rahulsenna.github.io.png"  style="width: 20%" /> -->
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
