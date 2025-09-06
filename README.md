@@ -14,6 +14,11 @@
 <a href="https://www.codewars.com/users/RahulSinha" target="_blank">
 <img src="https://img.shields.io/badge/CodeWars--blue" />
 </a>
+<a href="https://app.codecrafters.io/users/rahulsenna" target="_blank">
+<img src="https://img.shields.io/badge/CodeCrafters--blue" />
+</a>
+
+
 
 <br/> 
 
